@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<module moduleId="10245_load_sensor_strain_gauge_492e7235e5ceafb2b9d8cbf1a61edf4a_6" fritzingVersion="0.9.3b" referenceFile="10245_load_sensor_strain_gauge_492e7235e5ceafb2b9d8cbf1a61edf4a_6.fzp">
+  <!-- generated from Sparkfun Eagle Library 'SparkFun-Sensors' LOAD_CELL 1X03-PTH -->
+  <version>4</version>
+  <date>Thu Apr 11 2019</date>
+  <label>S</label>
+  <author>Ho Yun "Bobby" Chan</author>
+  <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style=" margin-top:14px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-size:large; font-weight:600;"&gt;Half-wheatstone bridge Load Cell modified from the Fritzing Repo&lt;/span&gt;&lt;/p&gt;
+&lt;p style=" margin-top:14px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;span style=" font-family:'Helvetica Neue,Helvetica,Arial,sans-serif'; font-size:14px; color:#333333; background-color:#ffffff;"&gt;This load sensor, sometimes called a strain gauge, is the same one found in digital bathroom scales (you know, the ones you use in January for your New Year's resolutions, and then forget about a month later). This sensor can measure up to about 110 pounds.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description>
+  <title>Load Sensor - 50kg</title>
+  <tags>
+    <tag>1X03</tag>
+    <tag>load_cell</tag>
+  </tags>
+  <properties>
+    <property name="variant">variant 2</property>
+    <property name="layer"/>
+    <property name="family">SparkFun Load Sensor</property>
+    <property name="part number">SEN-10245</property>
+  </properties>
+  <views>
+    <breadboardView>
+      <layers image="breadboard/10245_load_sensor_strain_gauge_37a9a16f9c22f39d6b0a51d76e8fabca_3_breadboard.svg">
+        <layer layerId="breadboard"/>
+      </layers>
+    </breadboardView>
+    <schematicView>
+      <layers image="schematic/10245_load_sensor_strain_gauge_37a9a16f9c22f39d6b0a51d76e8fabca_3_schematic.svg">
+        <layer layerId="schematic"/>
+      </layers>
+    </schematicView>
+    <pcbView>
+      <layers image="pcb/10245_load_sensor_strain_gauge_37a9a16f9c22f39d6b0a51d76e8fabca_3_pcb.svg">
+        <layer layerId="copper1"/>
+        <layer layerId="silkscreen"/>
+        <layer layerId="copper0"/>
+      </layers>
+    </pcbView>
+    <iconView>
+      <layers image="icon/10245_load_sensor_strain_gauge_37a9a16f9c22f39d6b0a51d76e8fabca_3_icon.svg">
+        <layer layerId="icon"/>
+      </layers>
+    </iconView>
+  </views>
+  <connectors>
+    <connector id="connector0" name="B" type="male">
+      <description>B</description>
+      <views>
+        <breadboardView>
+          <p layer="breadboard" svgId="connector0pin"/>
+        </breadboardView>
+        <schematicView>
+          <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal"/>
+        </schematicView>
+        <pcbView>
+          <p layer="copper0" svgId="connector0pin"/>
+          <p layer="copper1" svgId="connector0pin"/>
+        </pcbView>
+      </views>
+    </connector>
+    <connector id="connector2" name="R" type="male">
+      <description>R</description>
+      <views>
+        <breadboardView>
+          <p layer="breadboard" svgId="connector2pin"/>
+        </breadboardView>
+        <schematicView>
+          <p layer="schematic" svgId="connector2pin" terminalId="connector2terminal"/>
+        </schematicView>
+        <pcbView>
+          <p layer="copper0" svgId="connector2pin"/>
+          <p layer="copper1" svgId="connector2pin"/>
+        </pcbView>
+      </views>
+    </connector>
+    <connector id="connector1" name="W" type="male">
+      <description>W</description>
+      <views>
+        <breadboardView>
+          <p layer="breadboard" svgId="connector1pin"/>
+        </breadboardView>
+        <schematicView>
+          <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal"/>
+        </schematicView>
+        <pcbView>
+          <p layer="copper0" svgId="connector1pin"/>
+          <p layer="copper1" svgId="connector1pin"/>
+        </pcbView>
+      </views>
+    </connector>
+  </connectors>
+  <buses/>
+  <url>https://www.sparkfun.com/products/10245</url>
+</module>

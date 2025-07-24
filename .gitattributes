@@ -1,0 +1,14 @@
+* text=auto
+
+# Enforce LF line endings for Python scripts
+*.py text eol=lf
+
+# Optional: enforce LF for other common code files
+*.js text eol=lf
+*.ts text eol=lf
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.svg text eol=lf
+

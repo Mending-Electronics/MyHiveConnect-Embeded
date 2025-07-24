@@ -1,0 +1,794 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" y="0px" width="1.1303921in" id="Layer_1" x="0px" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  version="1.1" height="2.04773in" gorn="0" viewBox="0 0 81.388331 147.43648">
+    <defs id="defs1138" >
+        <rect y="36.011498" width="54.823474" id="rect4" x="26.874252"  height="52.673534" gorn="0.0.0"/>
+        <rect y="5.3208304" width="53.968423" id="rect2" x="27.364271"  height="15.962491" gorn="0.0.1"/>
+    </defs>
+    <desc id="desc1" >
+        <referenceFile >ESP32_30Pin_Wroom_CH340_USB_Type_C.svg</referenceFile>
+    </desc>
+    <g id="g6"  gorn="0.2">
+        <g  transform="matrix(1.0977238,0,0,0.99026377,0.23880917,0.68533524)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g id="copper0"  gorn="0.2.0.0.0.0.0.0">
+                                <g  transform="matrix(0.91097599,0,0,1.009832,6.5127157,-0.38806454)">
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g id="g1132"  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                        <rect y="131.99336" fill="none" width="21.619469" id="rect1" x="22.49646" stroke-width="0.697146" stroke="#000000"  height="14.766527" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke-opacity="1"/>
+                                                        <path fill="none" id="rect25" stroke-width="0.602098" stroke="#000000"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.1" stroke-opacity="1" d="m -0.87158315,-1.379417e-4 c -3.43098355,0 -6.21534005,2.5506883417 -6.21534005,5.6806713417 v 126.0660766 1.49415 7.92335 c 0,3.14131 2.5291054,5.67041 5.6704175,5.67041 H 68.030361 c 3.141313,0 5.668953,-2.5291 5.668953,-5.67041 V 133.24076 131.74661 5.6805334 c 0,-3.129983 -2.782895,-5.6806713417 -6.213875,-5.6806713417 H 59.109451 V 14.239627 c 0,3.139926 -2.784353,5.680671 -6.21534,5.680671 H 13.530779 c -3.43098,0 -6.2153399,-2.540745 -6.2153399,-5.680671 V -1.379417e-4 Z M 66.870203,1.2654887 A 4.8189039,4.8189039 0 0 1 71.689546,6.0848308 4.8189039,4.8189039 0 0 1 66.870203,10.902708 4.8189039,4.8189039 0 0 1 62.052326,6.0848308 4.8189039,4.8189039 0 0 1 66.870203,1.2654887 Z M -0.24609407,1.3943951 A 4.8189039,4.8189039 0 0 1 4.5717832,6.2137373 4.8189039,4.8189039 0 0 1 -0.24609407,11.031615 4.8189039,4.8189039 0 0 1 -5.0654362,6.2137373 4.8189039,4.8189039 0 0 1 -0.24609407,1.3943951 Z m 0.0307618,134.1534949 a 4.8189039,4.8189039 0 0 1 4.81934207,4.81788 4.8189039,4.8189039 0 0 1 -4.81934207,4.81934 4.8189039,4.8189039 0 0 1 -4.81787733,-4.81934 4.8189039,4.8189039 0 0 1 4.81787733,-4.81788 z m 67.06942227,0 a 4.8189039,4.8189039 0 0 1 4.819342,4.81788 4.8189039,4.8189039 0 0 1 -4.819342,4.81934 4.8189039,4.8189039 0 0 1 -4.817877,-4.81934 4.8189039,4.8189039 0 0 1 4.817877,-4.81788 z"/>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.2464767" fill="#000000" id="tspan742" x="-119.15736" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">VIN</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1456981" fill="#000000" id="tspan742-6" x="-112.15504" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">GND</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.4.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1456978" fill="#000000" id="tspan742-6-1" x="-104.97237" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D13</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1588817" fill="#000000" id="tspan742-6-1-0" x="-97.928864" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D12</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1500924" fill="#000000" id="tspan742-6-1-0-5" x="-90.943947" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.6.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D14</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.7.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1588817" fill="#000000" id="tspan742-6-1-0-5-1" x="-83.758347" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D27</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1456981" fill="#000000" id="tspan742-6-1-0-5-1-5" x="-76.711906" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D26</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.9.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1456981" fill="#000000" id="tspan742-6-1-0-5-1-5-1" x="-69.559998" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.9.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D25</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.10.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1456981" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3" x="-62.491581" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.10.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D33</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-1" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.11.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1456981" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-7" x="-55.448071" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.11.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D32</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-1-6" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1456978" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-7-9" x="-48.319599" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D35</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-1-6-3" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.13.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1456981" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-7-9-4" x="-41.383022" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.13.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D34</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-1-6-3-6" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.14.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1456981" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-7-9-4-2" x="-33.382969" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.14.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">VN</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-1-6-3-6-3" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.15.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1456981" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-7-9-4-2-0" x="-26.314556" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.15.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">VP</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-1-6-3-6-3-1" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.16.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="3.1456981" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-7-9-4-2-0-4" x="-19.222706" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.16.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">EN</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-1" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.17.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.616676" fill="#000000" id="tspan742-1" x="-119.25623" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.17.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">3V3</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-4" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.18.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.616676" fill="#000000" id="tspan742-6-7" x="-112.0796" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.18.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">GND</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-1" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.19.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.616676" fill="#000000" id="tspan742-6-1-5" x="-104.89783" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.19.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D15</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-6" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.20.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.62986" fill="#000000" id="tspan742-6-1-0-6" x="-97.765877" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.20.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D2</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-53" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.21.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.621071" fill="#000000" id="tspan742-6-1-0-5-7" x="-90.657364" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.21.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D4</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-6" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.22.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.62986" fill="#000000" id="tspan742-6-1-0-5-1-6" x="-83.465347" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.22.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D16</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-7" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.23.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.616676" fill="#000000" id="tspan742-6-1-0-5-1-5-4" x="-76.292374" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.23.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D17</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-9" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.24.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.616676" fill="#000000" id="tspan742-6-1-0-5-1-5-1-1" x="-69.117203" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.24.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D5</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-3" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.25.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.616676" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-8" x="-61.985249" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.25.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D18</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-1-62" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.26.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.616676" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-7-8" x="-54.823994" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.26.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D19</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-1-6-9" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.27.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.616676" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-7-9-3" x="-47.664936" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.27.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D21</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-1-6-3-69" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.28.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.616676" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-7-9-4-7" x="-40.607689" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.28.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">RXO</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-1-6-3-6-32" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.29.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.616676" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-7-9-4-2-8" x="-33.390038" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.29.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">TXO</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-1-6-3-6-3-9" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.30.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.616676" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-7-9-4-2-0-7" x="-26.204613" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.30.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D22</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="rotate(-90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text742-3-7-7-9-5-3-3-3-1-6-3-6-3-1-3" stroke-width="0.750001" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.31.0.0.0.0.0" stroke-opacity="1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;" font-size="2.4">
+                                                                                <text y="65.616676" fill="#000000" id="tspan742-6-1-0-5-1-5-1-3-7-9-4-2-0-4-9" x="-19.030176" stroke-width="0.750001"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.31.0.0.0.0.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" font-size="2.4">D23</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="matrix(0.75000094,0,0,0.75000094,-7.3879722,-0.30117993)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <text fill="#000000" id="text1" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.32.0.0.0.0.0" stroke-opacity="1" style="font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';text-align:center;white-space:pre;shape-inside:url(#rect2);display:inline;" font-size="3.2"/>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <rect y="22.780645" fill="none" width="49.61142" id="rect3" x="8.5004854" stroke-width="0.736385" stroke="#000000"  fill-opacity="1" height="47.901146" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.33" stroke-opacity="1"/>
+                                                        <g  transform="matrix(1.4498514,0,0,1.5245629,-45.557792,-23.543092)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g fill="#000000" id="text3" stroke="none" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace"  fill-opacity="1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.34.0.0.0.0.0" stroke-opacity="1" style="font-family:Droid Sans;-inkscape-font-specification:'Droid Sans, Normal';text-align:center;white-space:pre;shape-inside:url(#rect4);display:inline;" font-size="3.2">
+                                                                                <text y="39.482422" id="tspan4" x="42.19043"  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.34.0.0.0.0.0.0">ESP32 Wroom
+</text>
+                                                                                <text y="44.482422" id="tspan6" x="48.788086"  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.34.0.0.0.0.0.1">30Pin
+</text>
+                                                                                <text y="49.482422" id="tspan7" x="48.788086"  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.34.0.0.0.0.0.2">CH340
+</text>
+                                                                                <text y="54.482422" id="tspan8" x="44.389648"  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.34.0.0.0.0.0.3">USB TypeC</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="copper1"  gorn="0.2.0.0.0.0.0.0.1">
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector0pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.0.0.0.0.0.0" d="m 4.4474936,21.470908 c -1.212911,0 -2.1997014,-1.06543 -2.1997014,-2.375 0,-1.303711 0.9867904,-2.364746 2.1997014,-2.364746 1.207484,0 2.1902042,1.061035 2.1902042,2.364746 0,1.30957 -0.9827202,2.375 -2.1902042,2.375 z m 0,-3.989746 c -0.8298627,0 -1.5050588,0.724609 -1.5050588,1.614746 0,0.895996 0.6751961,1.625 1.5050588,1.625 0.8244357,0 1.4955617,-0.729004 1.4955617,-1.625 0,-0.890137 -0.671126,-1.614746 -1.4955617,-1.614746 z" style="display:inline;"/>
+                                                        <rect y="19.0235" fill="none" width="0.00877981" id="connector0terminal" x="4.43836" stroke-width="0" stroke="none"  height="0.00947949" gorn="0.2.0.0.0.0.0.0.1.0.0.0.0.0.1"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector1pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.1.0.0.0.0.0" d="m 4.4474936,28.671103 c -1.212911,0 -2.1997014,-1.065429 -2.1997014,-2.375 0,-1.304199 0.9867904,-2.365234 2.1997014,-2.365234 1.207484,0 2.1902042,1.061035 2.1902042,2.365234 0,1.309571 -0.9827202,2.375 -2.1902042,2.375 z m 0,-3.990234 c -0.8298627,0 -1.5050588,0.724609 -1.5050588,1.615234 0,0.895996 0.6751961,1.625 1.5050588,1.625 0.8244357,0 1.4955617,-0.729004 1.4955617,-1.625 0,-0.890625 -0.671126,-1.615234 -1.4955617,-1.615234 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector2pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.2.0.0.0.0.0" d="m 4.4474936,35.870812 c -1.212911,0 -2.1997014,-1.06543 -2.1997014,-2.375 0,-1.303711 0.9867904,-2.364748 2.1997014,-2.364748 1.207484,0 2.1902042,1.061037 2.1902042,2.364748 0,1.309571 -0.9827202,2.375 -2.1902042,2.375 z m 0,-3.989748 c -0.8298627,0 -1.5050588,0.724612 -1.5050588,1.614748 0,0.895996 0.6751961,1.625 1.5050588,1.625 0.8244357,0 1.4955617,-0.729004 1.4955617,-1.625 0,-0.890137 -0.671126,-1.614748 -1.4955617,-1.614748 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector3pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.3.0.0.0.0.0" d="m 4.4474936,43.071008 c -1.212911,0 -2.1997014,-1.06543 -2.1997014,-2.375 0,-1.309571 0.9867904,-2.375 2.1997014,-2.375 1.207484,0 2.1902042,1.065429 2.1902042,2.375 0,1.30957 -0.9827202,2.375 -2.1902042,2.375 z m 0,-4 c -0.8298627,0 -1.5050588,0.729004 -1.5050588,1.625 0,0.895996 0.6751961,1.625 1.5050588,1.625 0.8244357,0 1.4955617,-0.729004 1.4955617,-1.625 0,-0.895996 -0.671126,-1.625 -1.4955617,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector4pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.4.0.0.0.0.0" d="m 4.4474936,50.271203 c -1.212911,0 -2.1997014,-1.06543 -2.1997014,-2.375 0,-1.30957 0.9867904,-2.375 2.1997014,-2.375 1.207484,0 2.1902042,1.06543 2.1902042,2.375 0,1.30957 -0.9827202,2.375 -2.1902042,2.375 z m 0,-4 c -0.8298627,0 -1.5050588,0.729004 -1.5050588,1.625 0,0.895996 0.6751961,1.625 1.5050588,1.625 0.8244357,0 1.4955617,-0.729004 1.4955617,-1.625 0,-0.895996 -0.671126,-1.625 -1.4955617,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector5pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.5.0.0.0.0.0" d="m 4.4474936,57.461144 c -1.212911,0 -2.1997014,-1.061035 -2.1997014,-2.365234 0,-1.30957 0.9867904,-2.375 2.1997014,-2.375 1.207484,0 2.1902042,1.06543 2.1902042,2.375 0,1.304199 -0.9827202,2.365234 -2.1902042,2.365234 z m 0,-3.990234 c -0.8298627,0 -1.5050588,0.729004 -1.5050588,1.625 0,0.890625 0.6751961,1.615234 1.5050588,1.615234 0.8244357,0 1.4955617,-0.724609 1.4955617,-1.615234 0,-0.895996 -0.671126,-1.625 -1.4955617,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector6pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.6.0.0.0.0.0" d="m 4.4474936,64.660851 c -1.212911,0 -2.1997014,-1.061035 -2.1997014,-2.364746 0,-1.30957 0.9867904,-2.375 2.1997014,-2.375 1.207484,0 2.1902042,1.06543 2.1902042,2.375 0,1.303711 -0.9827202,2.364746 -2.1902042,2.364746 z m 0,-3.989746 c -0.8298627,0 -1.5050588,0.729004 -1.5050588,1.625 0,0.890137 0.6751961,1.614746 1.5050588,1.614746 0.8244357,0 1.4955617,-0.724609 1.4955617,-1.614746 0,-0.895996 -0.671126,-1.625 -1.4955617,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector7pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.7.0.0.0.0.0" d="m 4.4474936,71.861047 c -1.212911,0 -2.1997014,-1.061036 -2.1997014,-2.365235 0,-1.30957 0.9867904,-2.375 2.1997014,-2.375 1.207484,0 2.1902042,1.06543 2.1902042,2.375 0,1.3042 -0.9827202,2.365235 -2.1902042,2.365235 z m 0,-3.990235 c -0.8298627,0 -1.5050588,0.729004 -1.5050588,1.625 0,0.890625 0.6751961,1.615235 1.5050588,1.615235 0.8244357,0 1.4955617,-0.72461 1.4955617,-1.615235 0,-0.895996 -0.671126,-1.625 -1.4955617,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector8pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.8.0.0.0.0.0" d="m 4.4474936,79.060754 c -1.212911,0 -2.1997014,-1.060547 -2.1997014,-2.364258 0,-1.309571 0.9867904,-2.375 2.1997014,-2.375 1.207484,0 2.1902042,1.065429 2.1902042,2.375 0,1.303711 -0.9827202,2.364258 -2.1902042,2.364258 z m 0,-3.989258 c -0.8298627,0 -1.5050588,0.728515 -1.5050588,1.625 0,0.889648 0.6751961,1.614258 1.5050588,1.614258 0.8244357,0 1.4955617,-0.72461 1.4955617,-1.614258 0,-0.896484 -0.671126,-1.625 -1.4955617,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector9pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.9.0.0.0.0.0" d="m 4.4474936,86.260949 c -1.212911,0 -2.1997014,-1.061523 -2.1997014,-2.365234 0,-1.309571 0.9867904,-2.375 2.1997014,-2.375 1.207484,0 2.1902042,1.065429 2.1902042,2.375 0,1.30371 -0.9827202,2.365234 -2.1902042,2.365234 z m 0,-3.990234 c -0.8298627,0 -1.5050588,0.728515 -1.5050588,1.625 0,0.890625 0.6751961,1.615234 1.5050588,1.615234 0.8244357,0 1.4955617,-0.724609 1.4955617,-1.615234 0,-0.896485 -0.671126,-1.625 -1.4955617,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector10pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.10.0.0.0.0.0" d="m 4.4474936,93.461144 c -1.212911,0 -2.1997014,-1.061523 -2.1997014,-2.365234 0,-1.30957 0.9867904,-2.375 2.1997014,-2.375 1.207484,0 2.1902042,1.06543 2.1902042,2.375 0,1.303711 -0.9827202,2.365234 -2.1902042,2.365234 z m 0,-3.990234 c -0.8298627,0 -1.5050588,0.728515 -1.5050588,1.625 0,0.890625 0.6751961,1.615234 1.5050588,1.615234 0.8244357,0 1.4955617,-0.724609 1.4955617,-1.615234 0,-0.896485 -0.671126,-1.625 -1.4955617,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector11pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.11.0.0.0.0.0" d="m 4.4474936,100.66134 c -1.212911,0 -2.1997014,-1.06543 -2.1997014,-2.375 0,-1.303711 0.9867904,-2.365235 2.1997014,-2.365235 1.207484,0 2.1902042,1.061524 2.1902042,2.365235 0,1.30957 -0.9827202,2.375 -2.1902042,2.375 z m 0,-3.990235 c -0.8298627,0 -1.5050588,0.72461 -1.5050588,1.615235 0,0.896484 0.6751961,1.625 1.5050588,1.625 0.8244357,0 1.4955617,-0.728516 1.4955617,-1.625 0,-0.890625 -0.671126,-1.615235 -1.4955617,-1.615235 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector12pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.12.0.0.0.0.0" d="m 4.4474936,107.86056 c -1.212911,0 -2.1997014,-1.06543 -2.1997014,-2.375 0,-1.30371 0.9867904,-2.36426 2.1997014,-2.36426 1.207484,0 2.1902042,1.06055 2.1902042,2.36426 0,1.30957 -0.9827202,2.375 -2.1902042,2.375 z m 0,-3.98926 c -0.8298627,0 -1.5050588,0.72461 -1.5050588,1.61426 0,0.89648 0.6751961,1.625 1.5050588,1.625 0.8244357,0 1.4955617,-0.72852 1.4955617,-1.625 0,-0.88965 -0.671126,-1.61426 -1.4955617,-1.61426 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector13pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.13.0.0.0.0.0" d="m 4.4474936,115.06075 c -1.212911,0 -2.1997014,-1.06543 -2.1997014,-2.375 0,-1.30371 0.9867904,-2.36426 2.1997014,-2.36426 1.207484,0 2.1902042,1.06055 2.1902042,2.36426 0,1.30957 -0.9827202,2.375 -2.1902042,2.375 z m 0,-3.98926 c -0.8298627,0 -1.5050588,0.72461 -1.5050588,1.61426 0,0.89649 0.6751961,1.625 1.5050588,1.625 0.8244357,0 1.4955617,-0.72851 1.4955617,-1.625 0,-0.88965 -0.671126,-1.61426 -1.4955617,-1.61426 z" style="display:inline;"/>
+                                                        <rect y="112.686" fill="none" width="0.00877981" id="connector13terminal" x="6.63331" stroke-width="0" stroke="none"  height="0.00947852" gorn="0.2.0.0.0.0.0.0.1.13.0.0.0.0.1"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector14pad" stroke-width="0.962388"  gorn="0.2.0.0.0.0.0.0.1.14.0.0.0.0.0" d="m 4.4474935,122.26095 c -1.212911,0 -2.1997014,-1.06543 -2.1997014,-2.375 0,-1.30371 0.9867904,-2.36524 2.1997014,-2.36524 1.2074841,0 2.1902043,1.06153 2.1902043,2.36524 0,1.30957 -0.9827202,2.375 -2.1902043,2.375 z m 0,-3.99024 c -0.8298627,0 -1.5050588,0.72461 -1.5050588,1.61524 0,0.89648 0.6751961,1.625 1.5050588,1.625 0.8244358,0 1.4955618,-0.72852 1.4955618,-1.625 0,-0.89063 -0.671126,-1.61524 -1.4955618,-1.61524 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector42pin" stroke-width="0.961348"  gorn="0.2.0.0.0.0.0.0.1.15.0.0.0.0.0" d="m 69.27046,21.401867 c -1.210292,0 -2.194952,-1.06543 -2.194952,-2.375 0,-1.303711 0.98466,-2.364746 2.194952,-2.364746 1.210294,0 2.194953,1.061035 2.194953,2.364746 0,1.30957 -0.984659,2.375 -2.194953,2.375 z m 0,-3.989746 c -0.828522,0 -1.501809,0.724609 -1.501809,1.614746 0,0.895996 0.673287,1.625 1.501809,1.625 0.828524,0 1.50181,-0.729004 1.50181,-1.625 0,-0.890137 -0.673286,-1.614746 -1.50181,-1.614746 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector41pin" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.16.0.0.0.0.0" d="m 69.27046,28.602062 c -1.160669,0 -2.104958,-1.06543 -2.104958,-2.375 0,-1.304199 0.944289,-2.365234 2.104958,-2.365234 1.160671,0 2.104959,1.061035 2.104959,2.365234 0,1.30957 -0.944288,2.375 -2.104959,2.375 z m 0,-3.990234 c -0.794552,0 -1.440235,0.724609 -1.440235,1.615234 0,0.895996 0.645683,1.625 1.440235,1.625 0.794554,0 1.440236,-0.729004 1.440236,-1.625 0,-0.890625 -0.645682,-1.615234 -1.440236,-1.615234 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector40pin" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.17.0.0.0.0.0" d="m 69.27046,35.801771 c -1.160669,0 -2.104958,-1.06543 -2.104958,-2.375 0,-1.303711 0.944289,-2.364748 2.104958,-2.364748 1.160671,0 2.104959,1.061037 2.104959,2.364748 0,1.30957 -0.944288,2.375 -2.104959,2.375 z m 0,-3.989748 c -0.794552,0 -1.440235,0.724611 -1.440235,1.614748 0,0.895996 0.645683,1.625 1.440235,1.625 0.794554,0 1.440236,-0.729004 1.440236,-1.625 0,-0.890137 -0.645682,-1.614748 -1.440236,-1.614748 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector39pin" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.18.0.0.0.0.0" d="m 69.27046,43.001966 c -1.160669,0 -2.104958,-1.06543 -2.104958,-2.375 0,-1.30957 0.944289,-2.375 2.104958,-2.375 1.160671,0 2.104959,1.06543 2.104959,2.375 0,1.30957 -0.944288,2.375 -2.104959,2.375 z m 0,-4 c -0.794552,0 -1.440235,0.729004 -1.440235,1.625 0,0.895996 0.645683,1.625 1.440235,1.625 0.794554,0 1.440236,-0.729004 1.440236,-1.625 0,-0.895996 -0.645682,-1.625 -1.440236,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector38pin" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.19.0.0.0.0.0" d="m 69.27046,50.201673 c -1.160669,0 -2.104958,-1.065429 -2.104958,-2.375 0,-1.30957 0.944289,-2.375 2.104958,-2.375 1.160671,0 2.104959,1.06543 2.104959,2.375 0,1.309571 -0.944288,2.375 -2.104959,2.375 z m 0,-4 c -0.794552,0 -1.440235,0.729004 -1.440235,1.625 0,0.895996 0.645683,1.625 1.440235,1.625 0.794554,0 1.440236,-0.729004 1.440236,-1.625 0,-0.895996 -0.645682,-1.625 -1.440236,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector37pin" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.20.0.0.0.0.0" d="m 69.27046,57.392103 c -1.160669,0 -2.104958,-1.061035 -2.104958,-2.365234 0,-1.309571 0.944289,-2.375 2.104958,-2.375 1.160671,0 2.104959,1.065429 2.104959,2.375 0,1.304199 -0.944288,2.365234 -2.104959,2.365234 z m 0,-3.990234 c -0.794552,0 -1.440235,0.729003 -1.440235,1.625 0,0.890625 0.645683,1.615234 1.440235,1.615234 0.794554,0 1.440236,-0.724609 1.440236,-1.615234 0,-0.895997 -0.645682,-1.625 -1.440236,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector36pin" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.21.0.0.0.0.0" d="m 69.27046,64.59181 c -1.160669,0 -2.104958,-1.061035 -2.104958,-2.364746 0,-1.30957 0.944289,-2.375 2.104958,-2.375 1.160671,0 2.104959,1.06543 2.104959,2.375 0,1.303711 -0.944288,2.364746 -2.104959,2.364746 z m 0,-3.989746 c -0.794552,0 -1.440235,0.729004 -1.440235,1.625 0,0.890137 0.645683,1.614746 1.440235,1.614746 0.794554,0 1.440236,-0.724609 1.440236,-1.614746 0,-0.895996 -0.645682,-1.625 -1.440236,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector35pin" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.22.0.0.0.0.0" d="m 69.27046,71.792005 c -1.160669,0 -2.104958,-1.061035 -2.104958,-2.365234 0,-1.30957 0.944289,-2.375 2.104958,-2.375 1.160671,0 2.104959,1.06543 2.104959,2.375 0,1.304199 -0.944288,2.365234 -2.104959,2.365234 z m 0,-3.990234 c -0.794552,0 -1.440235,0.729004 -1.440235,1.625 0,0.890625 0.645683,1.615234 1.440235,1.615234 0.794554,0 1.440236,-0.724609 1.440236,-1.615234 0,-0.895996 -0.645682,-1.625 -1.440236,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector34pin" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.23.0.0.0.0.0" d="m 69.27046,78.991712 c -1.160669,0 -2.104958,-1.061523 -2.104958,-2.365234 0,-1.30957 0.944289,-2.375 2.104958,-2.375 1.160671,0 2.104959,1.06543 2.104959,2.375 0,1.303711 -0.944288,2.365234 -2.104959,2.365234 z m 0,-3.990234 c -0.794552,0 -1.440235,0.728516 -1.440235,1.625 0,0.890625 0.645683,1.615234 1.440235,1.615234 0.794554,0 1.440236,-0.724609 1.440236,-1.615234 0,-0.896484 -0.645682,-1.625 -1.440236,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector33pin" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.24.0.0.0.0.0" d="m 69.27046,86.191908 c -1.160669,0 -2.104958,-1.061524 -2.104958,-2.365235 0,-1.30957 0.944289,-2.375 2.104958,-2.375 1.160671,0 2.104959,1.06543 2.104959,2.375 0,1.303711 -0.944288,2.365235 -2.104959,2.365235 z m 0,-3.990235 c -0.794552,0 -1.440235,0.728516 -1.440235,1.625 0,0.890625 0.645683,1.615235 1.440235,1.615235 0.794554,0 1.440236,-0.72461 1.440236,-1.615235 0,-0.896484 -0.645682,-1.625 -1.440236,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector19pad" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.25.0.0.0.0.0" d="m 69.27046,93.392103 c -1.160669,0 -2.104958,-1.061523 -2.104958,-2.365234 0,-1.309571 0.944289,-2.375 2.104958,-2.375 1.160671,0 2.104959,1.065429 2.104959,2.375 0,1.30371 -0.944288,2.365234 -2.104959,2.365234 z m 0,-3.990234 c -0.794552,0 -1.440235,0.728515 -1.440235,1.625 0,0.890625 0.645683,1.615234 1.440235,1.615234 0.794554,0 1.440236,-0.724609 1.440236,-1.615234 0,-0.896485 -0.645682,-1.625 -1.440236,-1.625 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector18pad" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.26.0.0.0.0.0" d="m 69.27046,100.5923 c -1.160669,0 -2.104958,-1.065431 -2.104958,-2.375002 0,-1.303711 0.944289,-2.365234 2.104958,-2.365234 1.160671,0 2.104959,1.061523 2.104959,2.365234 0,1.309571 -0.944288,2.375002 -2.104959,2.375002 z m 0,-3.990236 c -0.794552,0 -1.440235,0.724609 -1.440235,1.615234 0,0.896485 0.645683,1.625 1.440235,1.625 0.794554,0 1.440236,-0.728515 1.440236,-1.625 0,-0.890625 -0.645682,-1.615234 -1.440236,-1.615234 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector17pad" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.27.0.0.0.0.0" d="m 69.27046,107.79152 c -1.160669,0 -2.104958,-1.06543 -2.104958,-2.375 0,-1.30371 0.944289,-2.36426 2.104958,-2.36426 1.160671,0 2.104959,1.06055 2.104959,2.36426 0,1.30957 -0.944288,2.375 -2.104959,2.375 z m 0,-3.98926 c -0.794552,0 -1.440235,0.72461 -1.440235,1.61426 0,0.89648 0.645683,1.625 1.440235,1.625 0.794554,0 1.440236,-0.72852 1.440236,-1.625 0,-0.88965 -0.645682,-1.61426 -1.440236,-1.61426 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector16pad" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.28.0.0.0.0.0" d="m 69.27046,114.99171 c -1.160669,0 -2.104958,-1.06543 -2.104958,-2.375 0,-1.30371 0.944289,-2.36523 2.104958,-2.36523 1.160671,0 2.104959,1.06152 2.104959,2.36523 0,1.30957 -0.944288,2.375 -2.104959,2.375 z m 0,-3.99023 c -0.794552,0 -1.440235,0.72461 -1.440235,1.61523 0,0.89649 0.645683,1.625 1.440235,1.625 0.794554,0 1.440236,-0.72851 1.440236,-1.625 0,-0.89062 -0.645682,-1.61523 -1.440236,-1.61523 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-0.0027433)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <path fill="#ffff00" id="connector15pad" stroke-width="0.941434"  gorn="0.2.0.0.0.0.0.0.1.29.0.0.0.0.0" d="m 69.27046,122.19191 c -1.160669,0 -2.104958,-1.06543 -2.104958,-2.375 0,-1.30371 0.944289,-2.36524 2.104958,-2.36524 1.160671,0 2.104959,1.06153 2.104959,2.36524 0,1.30957 -0.944288,2.375 -2.104959,2.375 z m 0,-3.99024 c -0.794552,0 -1.440235,0.72461 -1.440235,1.61524 0,0.89648 0.645683,1.625 1.440235,1.625 0.794554,0 1.440236,-0.72852 1.440236,-1.625 0,-0.89063 -0.645682,-1.61524 -1.440236,-1.61524 z" style="display:inline;"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
